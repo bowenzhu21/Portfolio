@@ -1,3 +1,4 @@
+import gymbroimg from "./pages/images/GymBro.png"
 const logotext = "BOWEN";
 const meta = {
     title: "Bowen Zhu",
@@ -65,7 +66,7 @@ const skills = [{
 
 const services = [{
         title: "UI & UX Design",
-        description: "Design apps and websites for clients using React",
+        description: "Design apps and websites using React",
     },
     {
         title: "Engineering",
@@ -78,64 +79,8 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "To be lazy, is to be priviledged.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "To be lazy, is to be priviledged.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "To be lazy, is to be priviledged.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "To be lazy, is to be priviledged.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "To be lazy, is to be priviledged.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "To be lazy, is to be priviledged.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "To be lazy, is to be priviledged.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "To be lazy, is to be priviledged.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "To be lazy, is to be priviledged.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "To be lazy, is to be priviledged.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "To be lazy, is to be priviledged.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "To be lazy, is to be priviledged.",
+        img: gymbroimg,
+        description: "GymBro | Coming soon",
         link: "#",
     },
 ];
@@ -152,8 +97,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    linkedin: "https://linkedin.com",
+    github: "https://github.com/bowenzhu21",
+    linkedin: "https://linkedin.com/in/bowenzhu21/",
+    instagram: "https://instagram.com/bowen.z2/",
 };
 export {
     meta,
