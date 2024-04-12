@@ -44,7 +44,7 @@ const worktimeline = [{
 
 const skills = [{
         name: "React",
-        value: 90,
+        value: 80,
     },
     {
         name: "JavaScript",
@@ -56,11 +56,11 @@ const skills = [{
     },
     {
         name: "Python - Machine Learning",
-        value: 70,
+        value: 60,
     },
     {
         name: "SOLIDWORKS",
-        value: 85,
+        value: 90,
     },
 ];
 
@@ -100,6 +100,7 @@ const socialprofils = {
     github: "https://github.com/bowenzhu21",
     linkedin: "https://linkedin.com/in/bowenzhu21/",
     instagram: "https://instagram.com/bowen.z2/",
+    linktree: "https://linktr.ee/bowenzhu/"
 };
 export {
     meta,

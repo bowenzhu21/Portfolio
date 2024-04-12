@@ -5,6 +5,7 @@ import {
   FaInstagram,
   FaLinkedin,
 } from "react-icons/fa";
+import { TbBrandLinktree } from "react-icons/tb";
 import { socialprofils } from "../../content_option";
 
 export const Socialicons = (params) => {
@@ -29,6 +30,13 @@ export const Socialicons = (params) => {
           <li>
             <a href={socialprofils.linkedin}>
               <FaLinkedin />
+            </a>
+          </li>
+        )}
+        {socialprofils.linktree && (
+          <li>
+            <a href={socialprofils.linktree}>
+              <TbBrandLinktree />
             </a>
           </li>
         )}
