@@ -3,7 +3,7 @@ import "./style.css";
 import { HelmetProvider } from "react-helmet-async";
 import { Row, Col} from "react-bootstrap";
 import { contactConfig } from "../../content_option";
-import backgroundImage from "../images/Profile.jpeg"
+import backgroundImage from "../images/ContactPic.jpeg"
 
 export const ContactUs = () => {
   return (
