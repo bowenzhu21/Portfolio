@@ -21,6 +21,11 @@ const dataabout = {
     aboutme: "Hi, I'm Bowen 👋. I'm an innovation 💡 and engineering-driven ⚙️ leader. I'm a very active person both at work and at the gym. I'm a very creative 💡 person and I'm never shy to share my ideas",
 };
 const worktimeline = [{
+        jobtitle: "Bill Harvie Scholarship",
+        where: "University of Waterloo",
+        date: "2024",
+    },
+    {
         jobtitle: "Schulich Leader Nominee",
         where: "Canada",
         date: "2024",
