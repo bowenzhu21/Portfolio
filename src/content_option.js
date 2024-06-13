@@ -49,23 +49,23 @@ const worktimeline = [{
 
 const skills = [{
         name: "React",
-        value: 80,
-    },
-    {
-        name: "JavaScript",
-        value: 75,
-    },
-    {
-        name: "Java",
-        value: 90,
-    },
-    {
-        name: "Python - Machine Learning",
         value: 60,
     },
     {
+        name: "JavaScript",
+        value: 70,
+    },
+    {
+        name: "Java",
+        value: 75,
+    },
+    {
+        name: "Python - Machine Learning",
+        value: 50,
+    },
+    {
         name: "SOLIDWORKS",
-        value: 90,
+        value: 75,
     },
 ];
 
