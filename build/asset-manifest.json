@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1179d73.css",
+    "main.js": "/static/js/main.b1e4377e.js",
+    "static/media/Profile.jpeg": "/static/media/Profile.66a3a15fe8466120a3df.jpeg",
+    "static/media/ContactPic.jpeg": "/static/media/ContactPic.b79e8ba13c65fafc5e8b.jpeg",
+    "static/media/GymBro.png": "/static/media/GymBro.a0ae0d2b3485b2b220b7.png",
+    "index.html": "/index.html",
+    "main.b1179d73.css.map": "/static/css/main.b1179d73.css.map",
+    "main.b1e4377e.js.map": "/static/js/main.b1e4377e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1179d73.css",
+    "static/js/main.b1e4377e.js"
+  ]
+}
